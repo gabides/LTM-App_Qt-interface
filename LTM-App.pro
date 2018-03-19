@@ -15,7 +15,6 @@ TEMPLATE = app
 #add OpenCV
 LIBS += -L/usr/local/lib
 
-#LIBS += -L/USERS/gabrieldittrick/CSWORK/opencv/build/lib
 QT_CONFIG -= no-pkg-config
 CONFIG += link_pkgconfig
 PKGCONFIG += opencv
