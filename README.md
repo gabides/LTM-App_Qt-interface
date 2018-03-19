@@ -4,7 +4,7 @@ C++ application for detecting, recognizing and showing micro-expressions on a gr
 
 This part is only the Qt interface (no detection algorithm). 
 
-Another interface is being implemented for OSX with Swift language.
+Another interface is being implemented for OSX with Swift language, and the detection/recognition runs in an independent app.
 
 This interface is based on the Qt videoplayer example.
 
