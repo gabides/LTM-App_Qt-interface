@@ -8,3 +8,4 @@ Another interface is being implemented for OSX with Swift language, and the dete
 
 This interface is based on the Qt videoplayer example.
 
+Year-long project with Louis Lenief at CentraleSupélec (2018) and the Facial Analysis Synthesis and Tracking ([FAST](http://www.rennes.supelec.fr/ren/rd/fast/fast_accueil.php)) research team.
